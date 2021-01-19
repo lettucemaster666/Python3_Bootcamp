@@ -52,7 +52,6 @@ Exercises for "or"
 [+] 1 < 2 or 3 < 1          #Evaluates to True
 [+] 3 < 1 or 1 > 6          #Evaluates to False
 [+] 1 == 1 or 1 < 2         #Evaluates to True
-
 Exercises for "==":
 [+] 1 == 1                  #Evaluates to True
 [+] "hi" == "hi"            #Evaluates to True 
