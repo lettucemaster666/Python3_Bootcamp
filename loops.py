@@ -16,7 +16,7 @@ for <x> in <x-range>:
     <execute code> 
 
 While loop:
-while <x>:   #where x remains true will continue executing the loop until it changes to false. 
+while <x>:   #where x remains true will continue executing the loop until somehting changes it to false. 
     <execute code>  
 
 List comprehension: 

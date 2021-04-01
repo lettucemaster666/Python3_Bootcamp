@@ -36,7 +36,7 @@ print("4 / 2 = " + str(division))
 
 #Example of modulus 
 modulus = 4 % 3 
-print("4 % 3 = " + str(modulus)) # 4 divided by 3 gives a remainder of 1. That's what modulus is about! 
+print("4 % 3 = " + str(modulus)) #4 divided by 3 gives a remainder of 1. That's what modulus is about! 
 
 #Example of exponentiation 
 exponent = 2 ** 2 
